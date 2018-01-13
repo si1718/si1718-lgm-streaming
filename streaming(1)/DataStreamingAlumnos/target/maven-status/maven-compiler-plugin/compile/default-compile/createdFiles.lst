@@ -1,0 +1,16 @@
+data\streaming\test\TestKeywords.class
+data\streaming\utils\Utils.class
+data\streaming\waux\ValidTagsTweetEndpoIntinitializer.class
+data\streaming\dto\KeywordDTO.class
+batch\Batchman.class
+db\Utils.class
+data\streaming\dto\RatingDTO.class
+batch\Batcher$1.class
+batch\Batcher.class
+data\streaming\test\TestFlinkKafkaConsumer.class
+data\streaming\test\AllWindowFunctionImpl.class
+data\streaming\utils\LoggingFactory.class
+data\streaming\dto\TweetDTO.class
+data\streaming\dto\TweetUserDTO.class
+data\streaming\test\TestFlinkKafkaProducer.class
+db\MongoConnection.class
